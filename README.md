@@ -8,6 +8,6 @@ The deployed model responds to REST requests.
 
 *Dev* --> contains files with utility functions 
 
-*rest_client_serving"--> contains functions to simulate a REST client request
+*rest_client_serving*--> contains functions to simulate a REST client request
 
 *tf_serving_segmentation* --> shows a demo for how to use the deployed model.
