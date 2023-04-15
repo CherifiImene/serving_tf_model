@@ -1,4 +1,4 @@
-# mcp_net
+# serving_tf_model
 This repository shows how to deploy a tensorflow model using Tensorflow serving.
 The deployed model responds to REST requests.
 
